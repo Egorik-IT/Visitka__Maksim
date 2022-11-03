@@ -6,11 +6,10 @@ body{
 }
 .super__conteiner{
     max-width: 1600px;
-display: flex;
-justify-content: center;
-align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 0 50px;
-    border: #919191 2px dashed;
     padding: 10px;
 }
 
